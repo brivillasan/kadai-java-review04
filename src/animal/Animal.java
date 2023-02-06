@@ -6,7 +6,7 @@ public class Animal {
     private int age;
 
     //コンストラクタ
-    public Animal(String name, int age) {
+    public Animal(String name,int age) {
        this.name = name;
        this.age = age;
 
